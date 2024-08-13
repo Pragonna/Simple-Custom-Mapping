@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\bin\Debug\net8.0\MAPPING.deps.json
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\bin\Debug\net8.0\MAPPING.dll
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\bin\Debug\net8.0\MAPPING.pdb
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\MAPPING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\MAPPING.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\MAPPING.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\MAPPING.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\MAPPING.dll
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\refint\MAPPING.dll
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\MAPPING.pdb
+C:\Users\User\source\repos\CustomMapping.library\MAPPING\obj\Debug\net8.0\ref\MAPPING.dll
